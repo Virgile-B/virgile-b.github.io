@@ -1,4 +1,6 @@
-baseURL = "http://virgile-b.github.io"
+#baseURL = "http://virgile-b.github.io"
+baseURL = "jolly-noyce-80d294.netlify.app"
+
 languageCode = "en-us"
 title = "Virgile's blog"
 theme = "uBlogger"
