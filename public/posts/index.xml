@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - Virgile&#39;s blog</title>
+        <link>http://virgile-b.github.io/posts/</link>
+        <description>All Posts | Virgile&#39;s blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 07 Mar 2021 13:21:26 &#43;0100</lastBuildDate><atom:link href="http://virgile-b.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>First_post</title>
+    <link>http://virgile-b.github.io/first_post/</link>
+    <pubDate>Sun, 07 Mar 2021 13:21:26 &#43;0100</pubDate>
+    <author>Author</author>
+    <guid>http://virgile-b.github.io/first_post/</guid>
+    <description><![CDATA[Popompom qerogijreohgqergnh qeorgi qrieg oqerijglrg jngsdj.
+toijhmorstijhmositjmlkj. ]]></description>
+</item></channel>
+</rss>
